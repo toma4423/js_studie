@@ -18,3 +18,9 @@ TypeScriptを学習する。
 
 その後  
 PythonでWEBアプリケーションの作成へと進む。  
+
+## 予定
+JavaScriptを学習してGitHubにて確認できるものまでを行う。  
+その後はDockerを利用したコンテナ技術を用いてWEBアプリケーションの作成へと移行する。  
+オンライン公開の際はGoogle Cloud PlatformのCloud Runを利用してデプロイする。  
+そのころにはNode.jsとExpress.jsを実際に動かしてみること、PythonのFastAPIやDjango、Flaskを学習すること。  
